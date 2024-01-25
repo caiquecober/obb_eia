@@ -1,0 +1,6 @@
+{
+    "__extensions__": "",
+    "openbb_eia": "/openbb_eia",
+    "openbb_eia_eia_historical": "/openbb_eia/eia_historical",
+    "openbb_eia_get_test": "/openbb_eia/get_test"
+}
